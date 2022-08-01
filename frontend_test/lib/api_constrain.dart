@@ -1,0 +1,2 @@
+const String API_TOKEN =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZW1wbGF0ZS1tYWtlciIsIm5hbWUiOiJSYWogVmFnaGFzaXlhIiwiaWF0IjoxNjU5MzI3NTU1fQ.eX5FZw23udrfcqALAX1muJEQfI_seFx1FlEkrTklMMs';
